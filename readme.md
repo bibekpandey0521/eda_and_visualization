@@ -6,7 +6,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on an ins
 
 The main objective is to understand the structure of the dataset, identify patterns and relationships between variables, detect missing values and outliers, and generate useful insights through statistical analysis and data visualization.
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains information about insurance customers and their insurance charges.
 
@@ -22,7 +22,7 @@ Typical features include:
 
 > Note: The exact columns depend on the CSV dataset being used.
 
-## 🔍 EDA Performed
+##  EDA Performed
 
 The analysis includes:
 
@@ -82,7 +82,7 @@ Some of the questions explored in this project are:
 * **Seaborn** — Statistical visualization
 * **Jupyter Notebook** — Interactive analysis
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 insurance-eda/
@@ -98,14 +98,7 @@ insurance-eda/
 └── requirements.txt
 ```
 
-## ▶️ How to Run
 
-### 1. Clone the repository
-
-```bash
-git clone <repository-url>
-cd insurance-eda
-```
 
 ### 2. Create a virtual environment
 
@@ -141,7 +134,7 @@ jupyter notebook
 
 Open the EDA notebook and run the cells to reproduce the analysis.
 
-## 📈 Results
+##  Results
 
 The analysis provides insights into the factors associated with medical insurance charges and uses visualizations to make patterns and relationships easier to understand.
 
